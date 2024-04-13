@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "TvInfoPlugin",
+    "slug": "tvinfoplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "isTv",
+        "signature": "() => Promise<{ value: boolean; }>",
+        "parameters": [],
+        "returns": "Promise<{ value: boolean; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "istv"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
