@@ -1,5 +1,5 @@
 {
-  "name": "TvInfo",
+  "name": "capacitor-tv-info",
   "version": "0.0.1",
   "description": "Plugin for detect and provide TV support",
   "main": "dist/plugin.cjs.js",
@@ -11,16 +11,16 @@
     "dist/",
     "ios/",
     "android/",
-    "TvInfo.podspec"
+    "CapacitorTvInfo.podspec"
   ],
   "author": "StoryPop Games",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github/storypop-games/TvInfo.git"
+    "url": "git+https://github/storypop-games/capacitor-tv-info.git"
   },
   "bugs": {
-    "url": "https://github/storypop-games/TvInfo/issues"
+    "url": "https://github/storypop-games/capacitor-tv-info/issues"
   },
   "keywords": [
     "capacitor",
