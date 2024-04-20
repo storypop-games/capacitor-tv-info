@@ -7,10 +7,10 @@
   "types": "dist/esm/index.d.ts",
   "unpkg": "dist/plugin.js",
   "files": [
-    "android/src/main/",
-    "android/build.gradle",
+    "src/",
     "dist/",
-    "ios/Plugin/",
+    "ios/",
+    "android/",
     "TvInfo.podspec"
   ],
   "author": "StoryPop Games",
