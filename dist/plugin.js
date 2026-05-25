@@ -18,8 +18,6 @@ var capacitorTvInfo = (function (exports, core) {
 
     exports.TvInfo = TvInfo;
 
-    Object.defineProperty(exports, '__esModule', { value: true });
-
     return exports;
 
 })({}, capacitorExports);
